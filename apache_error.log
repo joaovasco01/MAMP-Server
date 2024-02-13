@@ -1,0 +1,161 @@
+[Sat Jan 20 02:31:39.490209 2024] [:notice] [pid 41058] FastCGI: process manager initialized (pid 41058)
+[Sat Jan 20 02:31:39.491730 2024] [mpm_prefork:notice] [pid 41049] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Jan 20 02:31:39.491996 2024] [core:notice] [pid 41049] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Jan 20 02:32:57.262740 2024] [mpm_prefork:notice] [pid 41049] AH00169: caught SIGTERM, shutting down
+[Sat Jan 20 02:58:40.293592 2024] [:notice] [pid 2537] FastCGI: process manager initialized (pid 2537)
+[Sat Jan 20 02:58:40.296278 2024] [mpm_prefork:notice] [pid 2525] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Jan 20 02:58:40.296716 2024] [core:notice] [pid 2525] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Jan 20 03:01:12.923062 2024] [mpm_prefork:notice] [pid 2525] AH00169: caught SIGTERM, shutting down
+[Sat Jan 20 03:01:20.067748 2024] [mpm_prefork:notice] [pid 2924] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Jan 20 03:01:20.068407 2024] [core:notice] [pid 2924] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Jan 20 03:01:20.069505 2024] [:notice] [pid 2926] FastCGI: process manager initialized (pid 2926)
+[Sat Jan 20 03:02:21.710897 2024] [authz_core:error] [pid 2930] [client ::1:49598] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 03:02:38.490876 2024] [authz_core:error] [pid 2939] [client ::1:49602] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 03:02:39.752595 2024] [authz_core:error] [pid 2939] [client ::1:49602] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 03:03:04.839278 2024] [authz_core:error] [pid 2929] [client ::1:49605] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 03:07:05.300140 2024] [authz_core:error] [pid 2943] [client ::1:49638] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 16:21:28.439563 2024] [authz_core:error] [pid 2927] [client ::1:50181] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 16:46:27.485507 2024] [mpm_prefork:notice] [pid 2924] AH00169: caught SIGTERM, shutting down
+[Sat Jan 20 16:46:33.830754 2024] [mpm_prefork:notice] [pid 27009] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sat Jan 20 16:46:33.831339 2024] [core:notice] [pid 27009] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Jan 20 16:46:33.831937 2024] [:notice] [pid 27013] FastCGI: process manager initialized (pid 27013)
+[Sat Jan 20 17:24:19.408230 2024] [authz_core:error] [pid 27744] [client ::1:50456] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 20 20:50:15.307260 2024] [authz_core:error] [pid 32795] [client ::1:50918] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 00:46:01.856809 2024] [authz_core:error] [pid 32795] [client ::1:51471] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 02:33:39.565449 2024] [authz_core:error] [pid 29443] [client ::1:51851] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 02:37:18.659056 2024] [authz_core:error] [pid 36366] [client ::1:51902] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 02:43:51.181154 2024] [authz_core:error] [pid 50667] [client ::1:51986] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 03:41:01.421960 2024] [authz_core:error] [pid 50206] [client ::1:52227] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 03:42:47.985058 2024] [authz_core:error] [pid 52685] [client ::1:52245] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 03:44:21.220331 2024] [authz_core:error] [pid 52534] [client ::1:52257] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 03:44:24.214674 2024] [authz_core:error] [pid 52534] [client ::1:52257] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 03:44:24.579525 2024] [authz_core:error] [pid 52534] [client ::1:52257] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 21 03:44:25.691186 2024] [authz_core:error] [pid 52534] [client ::1:52257] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 23 18:41:39.606300 2024] [authz_core:error] [pid 50252] [client ::1:54429] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 24 02:26:50.330270 2024] [authz_core:error] [pid 51050] [client ::1:54823] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 24 02:26:52.663002 2024] [authz_core:error] [pid 51050] [client ::1:54823] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Thu Jan 25 02:21:13.511074 2024] [mpm_prefork:notice] [pid 27009] AH00171: Graceful restart requested, doing restart
+[Thu Jan 25 02:21:14.289119 2024] [mpm_prefork:notice] [pid 27009] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Jan 25 02:21:14.289660 2024] [core:notice] [pid 27009] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Jan 25 02:21:14.289674 2024] [mpm_prefork:notice] [pid 27009] AH00171: Graceful restart requested, doing restart
+[Thu Jan 25 02:21:14.294021 2024] [:notice] [pid 10637] FastCGI: process manager initialized (pid 10637)
+[Thu Jan 25 02:21:14.305216 2024] [:alert] [pid 10637] (9)Bad file descriptor: FastCGI: read() from pipe failed (0)
+[Thu Jan 25 02:21:14.305245 2024] [:alert] [pid 10637] (9)Bad file descriptor: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Thu Jan 25 02:21:14.419009 2024] [mpm_prefork:notice] [pid 27009] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Jan 25 02:21:14.419037 2024] [core:notice] [pid 27009] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Jan 25 02:21:14.422503 2024] [:notice] [pid 10641] FastCGI: process manager initialized (pid 10641)
+[Fri Jan 26 14:16:44.807460 2024] [authz_core:error] [pid 10643] [client ::1:57652] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 26 14:44:07.252734 2024] [authz_core:error] [pid 34506] [client ::1:57737] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 26 15:53:11.613879 2024] [mpm_prefork:notice] [pid 27009] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 15:53:21.787769 2024] [mpm_prefork:notice] [pid 41670] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 15:53:21.788213 2024] [core:notice] [pid 41670] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 15:53:21.790747 2024] [:notice] [pid 41674] FastCGI: process manager initialized (pid 41674)
+[Fri Jan 26 15:53:36.207841 2024] [authz_core:error] [pid 41677] [client ::1:57850] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 26 16:59:11.912387 2024] [mpm_prefork:notice] [pid 41670] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 16:59:12.526731 2024] [:notice] [pid 49532] FastCGI: process manager initialized (pid 49532)
+[Fri Jan 26 16:59:13.634227 2024] [mpm_prefork:notice] [pid 49531] AH00163: Apache/2.4.54 (Unix) mod_fastcgi/mod_fastcgi-SNAP-0910052141 PHP/8.2.0 OpenSSL/1.0.2u mod_wsgi/3.5 Python/2.7.18 configured -- resuming normal operations
+[Fri Jan 26 16:59:13.647261 2024] [core:notice] [pid 49531] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd -f /Library/Application Support/appsolute/MAMP PRO/conf/httpd.conf'
+[Fri Jan 26 16:59:20.884448 2024] [mpm_prefork:notice] [pid 49531] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 17:00:18.622659 2024] [mpm_prefork:notice] [pid 49802] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:00:18.623531 2024] [core:notice] [pid 49802] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:00:18.624030 2024] [:notice] [pid 49807] FastCGI: process manager initialized (pid 49807)
+[Fri Jan 26 17:25:57.764176 2024] [authz_core:error] [pid 49808] [client ::1:58033] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 26 17:29:35.632417 2024] [mpm_prefork:notice] [pid 49802] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 17:29:44.612071 2024] [mpm_prefork:notice] [pid 53596] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:29:44.612754 2024] [core:notice] [pid 53596] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:29:44.613139 2024] [:notice] [pid 53599] FastCGI: process manager initialized (pid 53599)
+[Fri Jan 26 17:32:44.051692 2024] [mpm_prefork:notice] [pid 53596] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 17:33:43.421285 2024] [mpm_prefork:notice] [pid 54796] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:33:43.421587 2024] [core:notice] [pid 54796] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:33:43.425552 2024] [:notice] [pid 54799] FastCGI: process manager initialized (pid 54799)
+[Fri Jan 26 17:33:47.993148 2024] [authz_core:error] [pid 54802] [client ::1:58074] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 26 17:35:02.180953 2024] [mpm_prefork:notice] [pid 54796] AH00171: Graceful restart requested, doing restart
+[Fri Jan 26 17:35:02.239036 2024] [:alert] [pid 54799] (9)Bad file descriptor: FastCGI: read() from pipe failed (0)
+[Fri Jan 26 17:35:02.239483 2024] [:alert] [pid 54799] (9)Bad file descriptor: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Fri Jan 26 17:35:02.386518 2024] [mpm_prefork:notice] [pid 54796] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:35:02.386543 2024] [core:notice] [pid 54796] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:35:02.386551 2024] [mpm_prefork:notice] [pid 54796] AH00171: Graceful restart requested, doing restart
+[Fri Jan 26 17:35:02.389342 2024] [:notice] [pid 55158] FastCGI: process manager initialized (pid 55158)
+[Fri Jan 26 17:35:02.395862 2024] [:alert] [pid 55158] (9)Bad file descriptor: FastCGI: read() from pipe failed (0)
+[Fri Jan 26 17:35:02.395900 2024] [:alert] [pid 55158] (9)Bad file descriptor: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Fri Jan 26 17:35:02.501562 2024] [mpm_prefork:notice] [pid 54796] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:35:02.501594 2024] [core:notice] [pid 54796] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:35:02.504634 2024] [:notice] [pid 55162] FastCGI: process manager initialized (pid 55162)
+[Fri Jan 26 17:39:11.284375 2024] [mpm_prefork:notice] [pid 54796] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 17:46:56.215454 2024] [mpm_prefork:notice] [pid 56530] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:46:56.216480 2024] [core:notice] [pid 56530] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:46:56.221084 2024] [:notice] [pid 56533] FastCGI: process manager initialized (pid 56533)
+[Fri Jan 26 17:47:01.295518 2024] [authz_core:error] [pid 56537] [client ::1:58128] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 26 17:50:17.749315 2024] [mpm_prefork:notice] [pid 56530] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 17:50:24.026007 2024] [mpm_prefork:notice] [pid 57192] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:50:24.026279 2024] [core:notice] [pid 57192] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:50:24.028430 2024] [:notice] [pid 57195] FastCGI: process manager initialized (pid 57195)
+[Fri Jan 26 17:52:24.785968 2024] [mpm_prefork:notice] [pid 57192] AH00169: caught SIGTERM, shutting down
+[Fri Jan 26 17:53:08.680300 2024] [mpm_prefork:notice] [pid 58964] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Fri Jan 26 17:53:08.681281 2024] [core:notice] [pid 58964] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Jan 26 17:53:08.683137 2024] [:notice] [pid 58967] FastCGI: process manager initialized (pid 58967)
+[Fri Jan 26 17:53:12.743674 2024] [authz_core:error] [pid 58969] [client ::1:58176] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 27 06:29:46.541381 2024] [authz_core:error] [pid 58972] [client ::1:58792] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Jan 27 11:50:33.334859 2024] [authz_core:error] [pid 58969] [client ::1:58954] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 28 01:19:22.965738 2024] [authz_core:error] [pid 63240] [client ::1:59305] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 28 01:34:57.942735 2024] [mpm_prefork:notice] [pid 58964] AH00169: caught SIGTERM, shutting down
+[Sun Jan 28 01:35:03.933447 2024] [mpm_prefork:notice] [pid 80436] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sun Jan 28 01:35:03.933719 2024] [core:notice] [pid 80436] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sun Jan 28 01:35:03.934043 2024] [:notice] [pid 80439] FastCGI: process manager initialized (pid 80439)
+[Sun Jan 28 01:35:12.341970 2024] [authz_core:error] [pid 80440] [client ::1:63169] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 28 01:35:12.359768 2024] [authz_core:error] [pid 80440] [client ::1:63169] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 28 01:35:13.622670 2024] [authz_core:error] [pid 80441] [client ::1:63132] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sun Jan 28 20:06:04.640440 2024] [mpm_prefork:notice] [pid 80436] AH00169: caught SIGTERM, shutting down
+[Mon Jan 29 00:28:10.142056 2024] [mpm_prefork:notice] [pid 21937] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 00:28:10.142581 2024] [core:notice] [pid 21937] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 00:28:10.143186 2024] [:notice] [pid 21941] FastCGI: process manager initialized (pid 21941)
+[Mon Jan 29 00:28:23.260443 2024] [authz_core:error] [pid 21944] [client ::1:49885] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Jan 29 00:47:34.233136 2024] [mpm_prefork:notice] [pid 21937] AH00169: caught SIGTERM, shutting down
+[Mon Jan 29 00:47:41.081964 2024] [mpm_prefork:notice] [pid 25583] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 00:47:41.082520 2024] [core:notice] [pid 25583] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 00:47:41.084319 2024] [:notice] [pid 25586] FastCGI: process manager initialized (pid 25586)
+[Mon Jan 29 00:59:08.361086 2024] [mpm_prefork:notice] [pid 25583] AH00169: caught SIGTERM, shutting down
+[Mon Jan 29 01:08:32.745929 2024] [mpm_prefork:notice] [pid 37910] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:08:32.746239 2024] [core:notice] [pid 37910] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:08:32.749154 2024] [:notice] [pid 37913] FastCGI: process manager initialized (pid 37913)
+[Mon Jan 29 01:09:38.210564 2024] [authz_core:error] [pid 37915] [client ::1:50513] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Jan 29 01:11:05.561142 2024] [authz_core:error] [pid 38460] [client ::1:50927] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Jan 29 01:12:29.151771 2024] [mpm_prefork:notice] [pid 37910] AH00171: Graceful restart requested, doing restart
+[Mon Jan 29 01:12:29.348657 2024] [mpm_prefork:notice] [pid 37910] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:12:29.348683 2024] [core:notice] [pid 37910] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:12:29.348689 2024] [mpm_prefork:notice] [pid 37910] AH00171: Graceful restart requested, doing restart
+[Mon Jan 29 01:12:29.351547 2024] [:notice] [pid 40257] FastCGI: process manager initialized (pid 40257)
+[Mon Jan 29 01:12:29.355548 2024] [:alert] [pid 40257] (9)Bad file descriptor: FastCGI: read() from pipe failed (0)
+[Mon Jan 29 01:12:29.355587 2024] [:alert] [pid 40257] (9)Bad file descriptor: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Mon Jan 29 01:12:29.463308 2024] [mpm_prefork:notice] [pid 37910] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:12:29.463341 2024] [core:notice] [pid 37910] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:12:29.470987 2024] [:notice] [pid 40262] FastCGI: process manager initialized (pid 40262)
+[Mon Jan 29 01:14:51.265809 2024] [mpm_prefork:notice] [pid 37910] AH00169: caught SIGTERM, shutting down
+[Mon Jan 29 01:14:58.382372 2024] [mpm_prefork:notice] [pid 41766] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:14:58.382726 2024] [core:notice] [pid 41766] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:14:58.383696 2024] [:notice] [pid 41769] FastCGI: process manager initialized (pid 41769)
+[Mon Jan 29 01:16:51.665179 2024] [mpm_prefork:notice] [pid 41766] AH00169: caught SIGTERM, shutting down
+[Mon Jan 29 01:16:58.549327 2024] [mpm_prefork:notice] [pid 42927] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:16:58.549918 2024] [core:notice] [pid 42927] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:16:58.549975 2024] [:notice] [pid 42930] FastCGI: process manager initialized (pid 42930)
+[Mon Jan 29 01:34:27.938702 2024] [mpm_prefork:notice] [pid 52699] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:34:27.939971 2024] [core:notice] [pid 52699] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:34:27.939665 2024] [:notice] [pid 52702] FastCGI: process manager initialized (pid 52702)
+[Mon Jan 29 01:34:29.021579 2024] [mpm_prefork:notice] [pid 52699] AH00169: caught SIGTERM, shutting down
+[Mon Jan 29 01:38:18.129696 2024] [mpm_prefork:notice] [pid 53232] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Jan 29 01:38:18.130535 2024] [core:notice] [pid 53232] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Jan 29 01:38:18.130416 2024] [:notice] [pid 53235] FastCGI: process manager initialized (pid 53235)
+[Mon Jan 29 01:38:22.902366 2024] [authz_core:error] [pid 53237] [client ::1:58989] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Jan 29 03:32:30.775468 2024] [authz_core:error] [pid 72080] [client ::1:65030] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 30 02:11:32.520354 2024] [authz_core:error] [pid 80974] [client ::1:63291] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 31 04:00:27.415895 2024] [authz_core:error] [pid 81917] [client ::1:65329] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 31 23:54:23.830442 2024] [authz_core:error] [pid 81687] [client ::1:50488] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 31 23:57:03.165228 2024] [mpm_prefork:notice] [pid 53232] AH00169: caught SIGTERM, shutting down
+[Wed Jan 31 23:57:11.870647 2024] [mpm_prefork:notice] [pid 31990] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Wed Jan 31 23:57:11.871231 2024] [core:notice] [pid 31990] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Jan 31 23:57:11.872060 2024] [:notice] [pid 31995] FastCGI: process manager initialized (pid 31995)
+[Wed Jan 31 23:57:15.821110 2024] [authz_core:error] [pid 31998] [client ::1:50531] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 06 17:26:15.541729 2024] [authz_core:error] [pid 67967] [client ::1:49438] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 06 17:35:56.836267 2024] [authz_core:error] [pid 32000] [client ::1:49459] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Feb 07 16:18:18.944585 2024] [authz_core:error] [pid 67970] [client ::1:58905] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Feb 07 16:18:24.822284 2024] [authz_core:error] [pid 32000] [client ::1:58906] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
