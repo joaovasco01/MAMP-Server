@@ -1,4 +1,5 @@
-Publicly NOT AVAILABLE the full project because of GDPR Compliance
+TLDR: NOT AVAILABLE (the entire project) Publicly because of GDPR Compliance. :(
+
 # Project README
 
 ---
